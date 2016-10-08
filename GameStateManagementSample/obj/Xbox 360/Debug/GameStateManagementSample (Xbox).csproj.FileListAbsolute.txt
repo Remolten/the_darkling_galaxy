@@ -1,0 +1,14 @@
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\background.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\blank.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\gradient.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\player.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\blob.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\core.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\menufont.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\gamefont.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\core (2).xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\GameStateManagementSample.exe
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\GameStateManagementSample.pdb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\obj\Xbox 360\Debug\GameStateManagementSample.exe
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\obj\Xbox 360\Debug\GameStateManagementSample.pdb

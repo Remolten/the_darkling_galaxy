@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2010-09-15T13:43:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2010-09-15T13:43:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2010-09-15T13:43:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2015-06-29T10:18:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>blob.png</Source>
+      <Name>blob</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\blob.xnb</Output>
+      <Time>2015-06-29T16:05:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>core (2).png</Source>
+      <Name>core (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\core (2).xnb</Output>
+      <Time>2015-07-01T10:05:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>test_bullet.png</Source>
+      <Name>test_bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\test_bullet.xnb</Output>
+      <Time>2015-07-01T10:17:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>targeting.png</Source>
+      <Name>targeting</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\targeting.xnb</Output>
+      <Time>2015-07-02T09:47:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bigger Portal.png</Source>
+      <Name>Bigger Portal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Bigger Portal.xnb</Output>
+      <Time>2015-07-06T10:24:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bg_circle4.png</Source>
+      <Name>bg_circle4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\bg_circle4.xnb</Output>
+      <Time>2015-07-07T10:50:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bg2.png</Source>
+      <Name>bg2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\bg2.xnb</Output>
+      <Time>2015-07-07T21:06:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu 512.png</Source>
+      <Name>Main Menu 512</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Main Menu 512.xnb</Output>
+      <Time>2015-07-08T10:19:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Blop.png</Source>
+      <Name>Blue Blop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Blue Blop.xnb</Output>
+      <Time>2015-07-08T10:23:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanky Blob.png</Source>
+      <Name>Tanky Blob</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Tanky Blob.xnb</Output>
+      <Time>2015-07-08T10:40:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Health Pack.png</Source>
+      <Name>Health Pack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Health Pack.xnb</Output>
+      <Time>2015-07-08T16:47:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2015-07-07T16:21:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2015-07-07T21:33:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>128 Heartbeats.mp3</Source>
+      <Name>128 Heartbeats</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\128 Heartbeats.xnb</Output>
+      <Extra>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\128 Heartbeats.wma</Extra>
+      <Time>2015-07-07T16:04:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Just For You.mp3</Source>
+      <Name>Just For You</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Just For You.xnb</Output>
+      <Extra>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Just For You.wma</Extra>
+      <Time>2015-07-07T16:05:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Silhouette.mp3</Source>
+      <Name>Silhouette</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Silhouette.xnb</Output>
+      <Extra>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Silhouette.wma</Extra>
+      <Time>2015-07-07T16:05:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DST-AngryMod.mp3</Source>
+      <Name>DST-AngryMod</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-AngryMod.xnb</Output>
+      <Extra>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-AngryMod.wma</Extra>
+      <Time>2015-07-07T16:07:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DST-Flak.mp3</Source>
+      <Name>DST-Flak</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-Flak.xnb</Output>
+      <Extra>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-Flak.wma</Extra>
+      <Time>2015-07-07T16:07:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DST-FlexT.mp3</Source>
+      <Name>DST-FlexT</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-FlexT.xnb</Output>
+      <Extra>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-FlexT.wma</Extra>
+      <Time>2015-07-07T16:07:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DST-TempleElectric.mp3</Source>
+      <Name>DST-TempleElectric</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-TempleElectric.xnb</Output>
+      <Extra>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-TempleElectric.wma</Extra>
+      <Time>2015-07-07T16:07:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DST-XToFly.mp3</Source>
+      <Name>DST-XToFly</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-XToFly.xnb</Output>
+      <Extra>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-XToFly.wma</Extra>
+      <Time>2015-07-07T16:07:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DST-ClubNight.mp3</Source>
+      <Name>DST-ClubNight</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-ClubNight.xnb</Output>
+      <Extra>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-ClubNight.wma</Extra>
+      <Time>2015-07-07T17:00:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BEEPROBO.WAV</Source>
+      <Name>BEEPROBO</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\BEEPROBO.xnb</Output>
+      <Time>2015-07-07T17:07:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_shooting_sfx.wav</Source>
+      <Name>laser_shooting_sfx</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\laser_shooting_sfx.xnb</Output>
+      <Time>2015-07-07T17:13:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Stone Guy Finished.png</Source>
+      <Name>Stone Guy Finished</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Stone Guy Finished.xnb</Output>
+      <Time>2015-07-09T10:26:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>floor.png</Source>
+      <Name>floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\floor.xnb</Output>
+      <Time>2015-07-09T10:26:06-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B7219195-3990-4557-87D7-856DB165635D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Programming\The_Darkling_Galaxy\Content\</RootDirectory>
+      <LoggerRootDirectory>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-06-09T03:45:57.7499709-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

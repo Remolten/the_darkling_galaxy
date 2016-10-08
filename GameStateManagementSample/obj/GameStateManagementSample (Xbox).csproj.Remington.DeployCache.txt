@@ -1,0 +1,27 @@
+bb99b28c200011e5b4930d151d5d46b0
+0
+Remington
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\
+130802369260000000
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\GameThumbnail.png
+2010-09-15T18:43:52.0000000Z
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\GameStateManagementSample.exe
+2015-07-01T15:08:46.0000000Z
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\background.xnb
+2015-07-01T14:49:16.0000000Z
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\blank.xnb
+2015-07-01T14:49:16.0000000Z
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\gradient.xnb
+2015-07-01T14:49:16.0000000Z
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\player.xnb
+2015-07-01T14:49:16.0000000Z
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\blob.xnb
+2015-07-01T14:49:16.0000000Z
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\core.xnb
+2015-07-01T14:49:16.0000000Z
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\menufont.xnb
+2015-07-01T14:49:16.0000000Z
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\gamefont.xnb
+2015-07-01T14:49:16.0000000Z
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\Xbox 360\Debug\Content\core (2).xnb
+2015-07-01T15:08:46.0000000Z

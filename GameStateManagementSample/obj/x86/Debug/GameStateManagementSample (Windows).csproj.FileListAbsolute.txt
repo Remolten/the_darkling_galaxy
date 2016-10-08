@@ -1,0 +1,92 @@
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\background.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\gamefont.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.exe
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.pdb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample (Windows).csprojResolveAssemblyReference.cache
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.exe
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.pdb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\player.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\Blob.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\core (2).xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\test_bullet.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\targeting.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\Bigger Portal.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\bg_circle4.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\128 Heartbeats.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\Just For You.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\Silhouette.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-AngryMod.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-Flak.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-FlexT.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-TempleElectric.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-XToFly.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\128 Heartbeats.wma
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\Just For You.wma
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\Silhouette.wma
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-AngryMod.wma
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-Flak.wma
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-FlexT.wma
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-TempleElectric.wma
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-XToFly.wma
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\bg2.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-ClubNight.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\DST-ClubNight.wma
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\BEEPROBO.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\laser_shooting_sfx.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\Main Menu 512.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\Blue Blop.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\Tanky Blob.xnb
+F:\Programming\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\Health Pack.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample (Windows).csprojResolveAssemblyReference.cache
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.exe
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\background.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\player.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\blob.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\core (2).xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\test_bullet.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\targeting.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Bigger Portal.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\bg_circle4.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\bg2.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Main Menu 512.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Blue Blop.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Tanky Blob.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Health Pack.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\gamefont.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\128 Heartbeats.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Just For You.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Silhouette.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-AngryMod.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-Flak.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-FlexT.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-TempleElectric.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-XToFly.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-ClubNight.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\BEEPROBO.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\laser_shooting_sfx.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\128 Heartbeats.wma
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Just For You.wma
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Silhouette.wma
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-AngryMod.wma
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-Flak.wma
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-FlexT.wma
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-TempleElectric.wma
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-XToFly.wma
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\DST-ClubNight.wma
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.exe
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.pdb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.pdb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\Stone Guy Finished.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\Content\floor.xnb
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.exe.manifest
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.application
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.exe.manifest
+F:\Programming\The_Darkling_Galaxy\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.application

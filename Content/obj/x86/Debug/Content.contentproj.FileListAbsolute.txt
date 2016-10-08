@@ -1,0 +1,2 @@
+F:\Programming\GSMSample_4_0_WIN_XBOX\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+F:\Programming\The_Darkling_Galaxy\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
