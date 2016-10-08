@@ -1,2 +1,3 @@
-# the_darkling_galaxy
+# The Darkling Game
 An endless wave shooter game made in C# + XNA
+Made in collaboration with Jacob Nelson
