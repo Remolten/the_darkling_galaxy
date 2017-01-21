@@ -1,2 +1,2 @@
-# The Darkling Game
-An endless wave shooter game made in C# + XNA. Made in collaboration with Jacob Nelson during the summer of 2015.
+# The Darkling Galaxy
+An endless wave shooter game made with C# + XNA. Made in collaboration with Jacob Nelson during the summer of 2015.
